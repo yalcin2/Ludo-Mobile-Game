@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3488478421
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 4047932610
+      Dependencies: {}
+    Info_1:
+      Name: player
+      Dependencies: {}
+    Info_2:
+      Name: yellow
+      Dependencies: {}
+    Info_3:
+      Name: red
+      Dependencies: {}
+    Info_4:
+      Name: blue
+      Dependencies: {}
+    Info_5:
+      Name: green
+      Dependencies: {}

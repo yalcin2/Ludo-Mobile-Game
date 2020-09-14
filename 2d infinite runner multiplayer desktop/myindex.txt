@@ -1,0 +1,146 @@
+<?php
+//error_reporting(0);
+//the first parameter remains localhost
+//second parameter is db username
+//third is db password
+//fourth is db name
+//fifth is db port, default port is 3306
+
+$db = new mysqli('localhost','id12338629_yalcin','formosa','id12338629_gameobjects',3306);
+
+$dboperation = mysqli_real_escape_string($db,$_GET['operation']);
+
+$dboperation = strtoupper($dboperation);
+
+
+if ($dboperation == "JOIN")
+{
+	$name = mysqli_real_escape_string($db,$_GET['playername']);
+	$xpos = mysqli_real_escape_string($db,$_GET['xposition']);
+	$ypos = mysqli_real_escape_string($db,$_GET['yposition']);
+	$objectcolor = mysqli_real_escape_string($db,$_GET['objectcolor']);
+	$totaltime = mysqli_real_escape_string($db,$_GET['totaltime']);
+	$ipaddress = mysqli_real_escape_string($db,$_GET['ipaddress']);
+	$address = mysqli_real_escape_string($db,$_GET['address']);
+	$age = mysqli_real_escape_string($db,$_GET['age']);
+	$town = mysqli_real_escape_string($db,$_GET['town']);
+	$score = mysqli_real_escape_string($db,$_GET['score']);
+	$totaljumps = mysqli_real_escape_string($db,$_GET['totaljumps']);
+	$gameversion = mysqli_real_escape_string($db,$_GET['gameversion']);
+	
+	$query = "INSERT INTO gameobjects(objectname,xpos,ypos,objectcolor,totaltime,ipaddress,address,age,town,score,totaljumps,gameversion) VALUES ('$name',$xpos,$ypos,'$objectcolor','$totaltime','$ipaddress','$address','$age','$town','$score','$totaljumps','$gameversion');";
+	
+	if ($db->query($query))
+	{
+		echo "OK|".$db->insert_id;
+	}
+	else
+	{
+		echo $query;
+		echo $db->error();
+	}
+	
+}
+if ($dboperation == "LEAVE")
+{
+	$objectid = mysqli_real_escape_string($db,$_GET['playerid']);
+	
+	$query = "DELETE FROM gameobjects WHERE objectid = $objectid";
+	
+	if ($db->query($query))
+	{
+		echo "OK";
+	}
+	else
+	{
+		echo $query;
+		echo $db->error();
+	}
+}
+if ($dboperation == "MOVE")
+{
+	$id = mysqli_real_escape_string($db,$_GET['playerid']);
+	$xpos = mysqli_real_escape_string($db,$_GET['xposition']);
+	$ypos = mysqli_real_escape_string($db,$_GET['yposition']);
+	$objectcolor = mysqli_real_escape_string($db,$_GET['objectcolor']);
+	$totaltime = mysqli_real_escape_string($db,$_GET['totaltime']);
+	$ipaddress = mysqli_real_escape_string($db,$_GET['ipaddress']);
+	$address = mysqli_real_escape_string($db,$_GET['address']);
+	$age = mysqli_real_escape_string($db,$_GET['age']);
+	$town = mysqli_real_escape_string($db,$_GET['town']);
+	$score = mysqli_real_escape_string($db,$_GET['score']);
+	$totaljumps = mysqli_real_escape_string($db,$_GET['totaljumps']);
+	$gameversion = mysqli_real_escape_string($db,$_GET['gameversion']);
+	
+
+	//if mysql error
+	if (mysqli_connect_errno()){
+		echo 'error connecting';
+		exit;
+		
+	}
+	
+	$sql = "update gameobjects set xpos = $xpos,ypos=$ypos,objectcolor='$objectcolor',totaltime='$totaltime',ipaddress='$ipaddress',address='$address',age='$age',town='$town',score='$score',totaljumps='$totaljumps',gameversion='$gameversion' where objectid=$id";
+	
+	
+	if ($db->query($sql))
+	{
+		echo "OK";
+	}
+	else {
+		echo $sql;
+		echo $db->error;
+	}
+}
+if ($dboperation == "POLL")
+{
+		//get all the data from the database into a comma separated array
+	
+	$sql = "select objectid,objectname,xpos,ypos,objectcolor,totaltime,ipaddress,address,age,town,score,totaljumps,gameversion from gameobjects";
+	
+	$records = $db->query($sql);
+	
+	$output = "";
+	
+	
+	while($row = $records->fetch_assoc())
+	{
+		$output .= $row["objectid"].",'".$row["objectname"]."',".$row["xpos"].",".
+			$row["ypos"].",".$row["objectcolor"].",".$row["totaltime"].",".$row["ipaddress"].",".
+			$row["address"].",".$row["age"].",".$row["town"].",".$row["score"].",".$row["totaljumps"].",".$row["gameversion"]."|";
+		
+	}
+	
+	echo $output;
+}
+
+if ($dboperation == "GENERATEAGEREPORT")
+{
+    $sql = "SELECT age, COUNT(*) AS number FROM gameobjects GROUP BY age";
+    $records = $db->query($sql);
+
+    $output = "Relationship of number of players to age:\r\n";
+
+    while($row = $records->fetch_assoc())
+    {
+        $output .= $row["age"].": ".$row["number"]."\r\n";
+    }
+    
+    echo nl2br($output);
+}
+if ($dboperation == "GENERATETOWNREPORT")
+{
+    $sql = "SELECT town AS 'town', COUNT(*) AS total FROM gameobjects GROUP BY town";
+    $records = $db->query($sql);
+
+    $output = "Relationship of number of players to town:\r\n";
+
+    while($row = $records->fetch_assoc())
+    {
+        $output .= $row["town"].": ".$row["total"]."\r\n";
+    }
+    
+    echo nl2br($output);
+}
+
+?>

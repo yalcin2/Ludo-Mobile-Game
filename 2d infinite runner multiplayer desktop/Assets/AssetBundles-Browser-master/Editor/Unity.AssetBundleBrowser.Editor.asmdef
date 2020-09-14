@@ -1,0 +1,11 @@
+{
+    "name": "Unity.AssetBundleBrowser.Editor",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "WSA"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
