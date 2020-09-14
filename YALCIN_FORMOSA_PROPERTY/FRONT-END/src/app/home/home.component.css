@@ -1,0 +1,21 @@
+#container 
+{
+    margin-top:75px;
+    background-color: #ffffcc;
+}
+
+.panel-primary
+{
+    background-color: #ffffcc;
+}
+
+.panel-heading
+{
+    color:black;
+    background-color: #0080ff;
+}
+
+.panel-body
+{
+    text-align:left;
+}

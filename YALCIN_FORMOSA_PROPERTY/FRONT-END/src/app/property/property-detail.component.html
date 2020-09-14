@@ -1,0 +1,38 @@
+<div class="panel panel-primary" *ngIf="property" id="container">
+    <div class="panel-heading">
+        {{pageTitle}} {{property.propertyType}}
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-3">Property Type: </div>
+                    <div class="col-md-6">{{property.propertyType}}</div>
+                </div><br>
+                <div class="row">
+                    <div class="col-md-3">Location:</div>
+                    <div class="col-md-6">{{property.location | convertToSpaces: '-'}}</div>
+                </div><br>
+                <div class="row">
+                    <div class="col-md-3">Description: </div>
+                    <div class="col-md-6">{{property.description}}</div>
+                </div><br>
+                <div class="row">
+                    <div class="col-md-3">Price: </div>
+                    <div class="col-md-6">{{property.price | currency:'EUR':true:'1.2-2'}}</div>
+                </div><br>
+            </div>
+            <div class="col-md-6">
+                <img class ="center-block img-thumbnail img-responsive"
+                    [src]='property.imageUrl'
+                    [title] ='property.propertyType'
+                    [style.width.px] ='450'
+                    [style.margin.px] ='20'/>
+            </div>
+        </div>
+    </div>
+    <div class="panel-footer">
+        <a class="btn btn-default" (click)="onBack()" style="width: 80px">
+            <i class ="glyphicon glyphicon-chevron-left"></i> Back </a>
+    </div>
+</div>

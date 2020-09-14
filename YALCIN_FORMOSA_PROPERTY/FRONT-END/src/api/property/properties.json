@@ -1,0 +1,42 @@
+[
+    {
+        "propertyId": 1,
+        "propertyType": "House of Character",
+        "location": "Munxar",
+        "description": "Consists of 3 bedrooms (3 en suites), kitchen, dining and living room, separate lounge, courtyard and a large garden with swimming pool.",
+        "price": 700000,
+        "imageUrl": "http://simonmamo.com/dynimage/galleryfficimage/313966/name.jpg"
+    },
+    {
+        "propertyId": 2,
+        "propertyType": "Apartment",
+        "location": "Gzira",
+        "description": "Highly finished 3 bedroom apartment is on the market from our vast range of apartments for sale in Malta. Located in the heart of Gzira few minutes away from the seafront.",
+        "price": 340000,
+        "imageUrl": "http://simonmamo.com/dynimage/galleryfficimage/329399/name.jpg"
+    },
+    {
+        "propertyId": 3,
+        "propertyType": "Villa",
+        "location": "Mgarr",
+        "description": "Set on a staggering 13,000m2 of land, this property is nothing short of what most would consider the ideal dream house for the architectural connoisseur.",
+        "price": 3100000,
+        "imageUrl": "http://simonmamo.com/dynimage/galleryfficimage/227458/name.jpg"
+    },
+    {
+        "propertyId": 4,
+        "propertyType": "Commercial Property",
+        "location": "Valletta",
+        "description": "A commercial property in Malta, located in Valletta. The office covers an area of 500sqm over five floors. It is brand new and finished to very high standards. With a good sized roof terrace.",
+        "price": 3750000,
+        "imageUrl": "http://simonmamo.com/dynimage/galleryfficimage/339171/name.jpg"
+    },
+    {
+        "propertyId": 5,
+        "propertyType": "Apartment",
+        "location": "Tigne Point",
+        "description": "Luxury and furnished 2 bedroom apartment is on the market from our range of properties for sale in Malta. Surrounded by all amenities and walking distance to the Sliema sea front.",
+        "price": 850000,
+        "imageUrl": "http://simonmamo.com/dynimage/galleryfficimage/324303/name.jpg"
+    }
+]

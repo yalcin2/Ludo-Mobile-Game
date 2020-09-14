@@ -1,0 +1,93 @@
+<div class="panel panel-primary" id="container">
+        <div class="panel-heading" align="center">
+            {{pageTitle}}
+        </div>
+    
+        <div class="panel-body">
+            <form #f="ngForm" 
+                  (ngSubmit)="onSubmit(f)" 
+                  class="form-horizontal" 
+                  [formGroup]="propForm" novalidate>
+                <fieldset>
+                    <div class="form-group">
+                        <label class="col-md-2 control-label"
+                            for="propertyType">Property Type: </label>
+                        <div class="col-md-8">
+                            <input class="form-control"
+                                   id="propertyType" 
+                                   name="propertyType" 
+                                   formControlName = "propertyType"
+                                   type="text"/>
+                        </div>
+                    </div>
+    
+                    <div class="form-group">
+                        <label class="col-md-2 control-label"
+                            for="location">Property Location: </label>
+                        <div class="col-md-8">
+                            <input class="form-control"
+                                    id="location" 
+                                    name="location"
+                                    formControlName = "location"
+                                    type="text"/> 
+                        </div>
+                    </div>
+    
+                    <div class="form-group">
+                        <label class="col-md-2 control-label"
+                            for="price">Property Price: </label>
+                        <div class="col-md-8">
+                            <input class="form-control"
+                                    id="price" 
+                                    name="price" 
+                                    formControlName = "price" 
+                                    type="number"/>
+                        </div>
+                    </div>
+    
+                    <div class="form-group">
+                        <label class="col-md-2 control-label"
+                            for="description">Property Description: </label>
+                        <div class="col-md-8">
+                            <input class="form-control"
+                                    id="description" 
+                                    name="description" 
+                                    formControlName = "description" 
+                                    type="text"/>
+                        </div>
+                    </div>
+    
+                    <div class="form-group">
+                        <label class="col-md-2 control-label"
+                            for="imageUrl">Property Image URL: </label>
+                        <div class="col-md-8">
+                            <input class="form-control"
+                                    id="imageUrl" 
+                                    name="imageUrl" 
+                                    formControlName = "imageUrl" 
+                                    type="text"/>
+                        </div>
+                    </div>
+    
+                    <div class="form-group">
+                        <div class="col-md-4 col-md-offset-2">
+                            <span>
+                                <button class="btn btn-success"
+                                        [disabled]="!propForm.valid" 
+                                        type="submit">
+                                    Save
+                                </button>
+                            </span>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+        <div class="panel-footer">
+            <span>
+                <a class="btn btn-default" (click)="onBack()" style="width: 80px">
+                <i class ="glyphicon glyphicon-chevron-left"></i> Back</a>
+            </span>
+        </div>
+    </div>
+        

@@ -1,0 +1,34 @@
+<div class='panel panel-primary' id="container">
+        <div class='panel-heading' align="center">
+            {{pageTitle}}
+        </div>
+        <div class='panel-body'>
+            <div class='row'>
+            </div>
+            <div class='table-responsive'>
+                <table class='table'
+                        *ngIf='properties && properties.length'>
+                    <thead>
+                        <tr>
+                            <th>Latest Properties</th>
+                            <th>Property Type</th>
+                        </tr>
+                    </thead>
+                        <tr *ngFor="let property of Properties; let i = index">
+                            <td *ngIf="i > Properties.length - 4">
+                                <img class="img-circle img-responsive"
+                                    [src]='property.imageUrl'
+                                    [title] ='property.propertyType'
+                                    [style.width.px] ='350'
+                                    [style.margin.px] ='2'/>
+                            </td> 
+                            <td *ngIf="i > Properties.length - 4">
+                                {{property.propertyType}}
+                            </td>
+                        </tr>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
