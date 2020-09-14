@@ -1,0 +1,81 @@
+C:\Ryan\MSD62A\Common\bin\Debug\Common.dll
+C:\Ryan\MSD62A\Common\bin\Debug\Common.pdb
+C:\Ryan\MSD62A\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Ryan\MSD62A\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Ryan\MSD62A\Common\obj\Debug\Common.dll
+C:\Ryan\MSD62A\Common\obj\Debug\Common.pdb
+C:\Ryan\MSD62A\Common\bin\Debug\Common.dll.config
+C:\Ryan\MSD62A\Common\bin\Debug\EntityFramework.dll
+C:\Ryan\MSD62A\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ryan\MSD62A\Common\bin\Debug\EntityFramework.xml
+C:\Ryan\MSD62A\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ryan\MSD62A\Common\obj\Debug\Common.csproj.CopyComplete
+I:\Securing Applications\Common\bin\Debug\Common.dll.config
+I:\Securing Applications\Common\bin\Debug\Common.dll
+I:\Securing Applications\Common\bin\Debug\Common.pdb
+I:\Securing Applications\Common\bin\Debug\EntityFramework.dll
+I:\Securing Applications\Common\bin\Debug\EntityFramework.SqlServer.dll
+I:\Securing Applications\Common\bin\Debug\EntityFramework.xml
+I:\Securing Applications\Common\bin\Debug\EntityFramework.SqlServer.xml
+I:\Securing Applications\Common\obj\Debug\Common.csprojAssemblyReference.cache
+I:\Securing Applications\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+I:\Securing Applications\Common\obj\Debug\Common.csproj.CopyComplete
+I:\Securing Applications\Common\obj\Debug\Common.dll
+I:\Securing Applications\Common\obj\Debug\Common.pdb
+F:\Securing Applications\Common\bin\Debug\Common.dll.config
+F:\Securing Applications\Common\bin\Debug\Common.dll
+F:\Securing Applications\Common\bin\Debug\Common.pdb
+F:\Securing Applications\Common\bin\Debug\EntityFramework.dll
+F:\Securing Applications\Common\bin\Debug\EntityFramework.SqlServer.dll
+F:\Securing Applications\Common\bin\Debug\EntityFramework.xml
+F:\Securing Applications\Common\bin\Debug\EntityFramework.SqlServer.xml
+F:\Securing Applications\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\Securing Applications\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\Securing Applications\Common\obj\Debug\Common.dll
+F:\Securing Applications\Common\obj\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\Common.dll.config
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\Common.dll
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\EntityFramework.dll
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\EntityFramework.xml
+C:\Users\yalci\Desktop\Securing Applications\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yalci\Desktop\Securing Applications\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\yalci\Desktop\Securing Applications\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\yalci\Desktop\Securing Applications\Common\obj\Debug\Common.dll
+C:\Users\yalci\Desktop\Securing Applications\Common\obj\Debug\Common.pdb
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.dll.config
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.dll
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.pdb
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.dll
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.SqlServer.dll
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.xml
+I:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.SqlServer.xml
+I:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csprojAssemblyReference.cache
+I:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+I:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csproj.CopyComplete
+I:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.dll
+I:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.dll.config
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.xml
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.dll.config
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.dll
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\Common.pdb
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.dll
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.xml
+E:\Securing Applications ASSIGNMENT NEW\Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.csproj.CopyComplete
+E:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.dll
+E:\Securing Applications ASSIGNMENT NEW\Common\obj\Debug\Common.pdb
