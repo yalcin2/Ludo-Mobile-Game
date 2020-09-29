@@ -1,0 +1,16 @@
+<div data-spy="scroll" data-target=".navbar">
+  <nav class="navbar navbar-inverse navbar-fixed-top" >
+      <div class="container-fluid">
+          <a class="navbar-brand">{{pageTitle}}</a>
+          <ul class="nav navbar-nav">
+              <li><a [routerLink]="['/home']">Home</a></li>
+              <li><a [routerLink]="['/property']">Properties</a></li>
+              <li><a [routerLink]="['/sign-up']">Sign Up</a></li>
+              <li><a [routerLink]="['/about']">About</a></li>
+          </ul>
+      </div>
+  </nav>
+  <div class="container">
+      <router-outlet></router-outlet>
+  </div>
+</div>

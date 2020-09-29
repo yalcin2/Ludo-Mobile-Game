@@ -1,0 +1,10 @@
+#container 
+{
+    margin-top:75px;
+    background-color: #ffffcc;
+}
+
+agm-map{
+    height: 500px;
+    width: 630px;
+}
