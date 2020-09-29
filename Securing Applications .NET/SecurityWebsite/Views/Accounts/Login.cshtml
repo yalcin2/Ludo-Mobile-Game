@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+
+}
+
+<form id="loginPage" method="post" action="\Accounts\Login">
+    @Html.AntiForgeryToken()
+
+    <table>
+        <tr>
+            <td>Email:</td>
+            <td><input type="email" name="email" /></td>
+        </tr>
+        <tr>
+            <td>Password:</td>
+            <td><input type="password" name="password" /></td>
+        </tr>
+    </table>
+    <p>
+        @Html.ActionLink("Forgot Password", "ForgotPassword")
+    </p>
+    <p>
+        <input type="submit" value="Log In" />
+    </p>
+</form>

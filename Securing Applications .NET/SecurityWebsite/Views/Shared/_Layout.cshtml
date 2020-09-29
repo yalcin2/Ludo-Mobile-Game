@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Music Sharing Application", "Index", "Musics", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+
+            <div style="color:white" class="nav navbar-nav navbar-right">
+                @if(User != null) {
+                    if (User.Identity.IsAuthenticated)
+                    {
+                        if (Context.User.IsInRole("Admin"))
+                        {
+                            <Label>(ADMIN USER) </Label>
+                        }
+                        <Label>Welcome @Context.User.Identity.Name &nbsp;</Label>
+                        <a href="\Accounts\Signout"> Sign Out</a>
+                        
+                    }
+                }
+            </div>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    @if (Context.User.IsInRole("Admin") || Context.User.IsInRole("User"))
+                    {
+                        <li class="nav-item">
+                            <a class="navbar-link" href="\Musics">My Music</a>
+                        </li>
+                    }
+                    @if (Context.User.IsInRole("Admin") || Context.User.IsInRole("User"))
+                    {
+                        <li class="nav-item">
+                            <a class="navbar-link" href="\Musics\Create">Create Music</a>
+                        </li>
+                    }
+                    @if (Context.User.IsInRole("Admin") || Context.User.IsInRole("User"))
+                    {
+                        <li class="nav-item">
+                            <a class="navbar-link" href="\Musics\ShareMusic">Share Music</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item active">
+                            <a class="navbar-link" href="\Accounts\Register">Register</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="navbar-link" href="\Accounts\Login">Login<span class="sr-only">(current)</span></a>
+                        </li>
+                    }
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="container body-content">
+    
+        <div style="margin-top: 5px;">
+            @if (TempData["message"] != null)
+            {
+                <div class="alert alert-success" role="alert">
+                    @TempData["message"]
+                </div>
+            }
+
+            @if (TempData["errormessage"] != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @TempData["errormessage"]
+                </div>
+            }
+
+        </div>
+        
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

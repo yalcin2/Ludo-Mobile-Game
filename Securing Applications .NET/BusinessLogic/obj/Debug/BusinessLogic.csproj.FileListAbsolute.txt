@@ -1,0 +1,123 @@
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\Common.dll
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\Common.pdb
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Ryan\MSD62A\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Ryan\MSD62A\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Ryan\MSD62A\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Ryan\MSD62A\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Ryan\MSD62A\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\Common.dll.config
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Ryan\MSD62A\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+I:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+I:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.dll
+I:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.pdb
+I:\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+I:\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.dll
+I:\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.pdb
+I:\Securing Applications\BusinessLogic\bin\Debug\Common.dll
+I:\Securing Applications\BusinessLogic\bin\Debug\DataAccess.dll
+I:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.dll
+I:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+I:\Securing Applications\BusinessLogic\bin\Debug\Common.pdb
+I:\Securing Applications\BusinessLogic\bin\Debug\Common.dll.config
+I:\Securing Applications\BusinessLogic\bin\Debug\DataAccess.pdb
+I:\Securing Applications\BusinessLogic\bin\Debug\DataAccess.dll.config
+I:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.xml
+I:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+F:\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+F:\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Securing Applications\BusinessLogic\bin\Debug\Common.dll
+F:\Securing Applications\BusinessLogic\bin\Debug\DataAccess.dll
+F:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.dll
+F:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+F:\Securing Applications\BusinessLogic\bin\Debug\Common.pdb
+F:\Securing Applications\BusinessLogic\bin\Debug\Common.dll.config
+F:\Securing Applications\BusinessLogic\bin\Debug\DataAccess.pdb
+F:\Securing Applications\BusinessLogic\bin\Debug\DataAccess.dll.config
+F:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.xml
+F:\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+F:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+F:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\Common.dll
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\Common.dll.config
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\yalci\Desktop\Securing Applications\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.dll
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.pdb
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.dll
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.dll
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.dll
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.pdb
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.dll.config
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.pdb
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.dll.config
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.xml
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.dll
+I:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.dll.config
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.dll
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.pdb
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\Common.dll.config
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\DataAccess.dll.config
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Securing Applications ASSIGNMENT NEW\BusinessLogic\obj\Debug\BusinessLogic.pdb

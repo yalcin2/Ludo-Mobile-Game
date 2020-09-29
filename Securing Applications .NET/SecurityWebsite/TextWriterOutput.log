@@ -1,0 +1,180 @@
+Log 17/10/2018 13:19:10, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 17/10/2018 13:19:10, User: , Method: /Items/Create, Message: Finished adding the item in db
+Log 22/10/2018 08:47:51, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 22/10/2018 08:48:40, User: , Method: /Items/Create, Message: Error: Object reference not set to an instance of an object.
+Log 22/10/2018 08:49:01, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 22/10/2018 08:50:25, User: , Method: /Items/Create, Message: Error: Object reference not set to an instance of an object.
+Log 22/10/2018 08:53:30, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 22/10/2018 08:53:32, User: , Method: /Items/Create, Message: Error: Object reference not set to an instance of an object.
+Log 22/10/2018 08:53:50, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 22/10/2018 08:57:20, User: , Method: /Items/Create, Message: Finished adding the item in db
+Log 22/10/2018 09:21:33, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 22/10/2018 09:21:33, User: , Method: /Items/Create, Message: Error: File not allowed
+Log 22/10/2018 09:22:25, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 22/10/2018 09:22:28, User: , Method: /Items/Create, Message: Finished adding the item in db
+Log 02 Dec 2018 15:35:17, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 02 Dec 2018 15:35:18, User: , Method: /Items/Create, Message: Error: An error occurred while updating the entries. See the inner exception for details.
+Log 02 Dec 2018 15:36:14, User: , Method: /Items/Create, Message: Entered the Create Action
+Log 02 Dec 2018 15:36:14, User: , Method: /Items/Create, Message: Finished adding the item in db
+Log 02 Dec 2018 17:20:24, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 17:20:25, User: , Method: /Musics/Create, Message: Finished adding the music in db
+Log 02 Dec 2018 18:12:31, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 18:12:31, User: , Method: /Musics/Create, Message: Finished adding the music in db
+Log 02 Dec 2018 18:14:53, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 18:14:53, User: , Method: /Musics/Create, Message: Finished adding the music in db
+Log 02 Dec 2018 18:33:20, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 18:33:20, User: , Method: /Musics/Create, Message: Finished adding the list in db
+Log 02 Dec 2018 18:45:18, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 18:45:19, User: , Method: /Musics/Create, Message: Error: An error occurred while updating the entries. See the inner exception for details.
+Log 02 Dec 2018 18:52:35, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 18:52:35, User: , Method: /Musics/Create, Message: Error: An error occurred while updating the entries. See the inner exception for details.
+Log 02 Dec 2018 19:12:33, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 19:12:34, User: , Method: /Musics/Create, Message: Error: An error occurred while updating the entries. See the inner exception for details.
+Log 02 Dec 2018 19:28:48, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 19:28:48, User: , Method: /Musics/Create, Message: Error: An error occurred while updating the entries. See the inner exception for details.
+Log 02 Dec 2018 20:06:18, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 20:06:18, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: input
+Log 02 Dec 2018 20:14:05, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 20:14:05, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: input
+Log 02 Dec 2018 20:16:03, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 20:16:04, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: input
+Log 02 Dec 2018 20:31:51, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 20:31:51, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: input
+Log 02 Dec 2018 20:56:35, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 02 Dec 2018 20:56:35, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: input
+Log 03 Dec 2018 14:24:18, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 03 Dec 2018 14:24:19, User: , Method: /Musics/Create, Message: Finished adding the list in db
+Log 03 Dec 2018 15:03:58, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 03 Dec 2018 15:04:07, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 03 Dec 2018 15:04:08, User: , Method: /Musics/Create, Message: Finished adding the list in db
+Log 03 Dec 2018 15:10:01, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 03 Dec 2018 15:10:02, User: , Method: /Musics/Create, Message: Finished adding the list in db
+Log 03 Dec 2018 15:10:40, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 03 Dec 2018 15:10:40, User: , Method: /Musics/Create, Message: Finished adding the list in db
+Log 03 Dec 2018 15:11:42, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 03 Dec 2018 15:11:42, User: , Method: /Musics/Create, Message: Finished adding the list in db
+Log 05 Dec 2018 23:36:10, User: , Method: /Accounts/ForgotPassword, Message: Error: Object reference not set to an instance of an object.
+Log 06 Dec 2018 13:56:13, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 06 Dec 2018 13:56:14, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 06 Dec 2018 13:56:14, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 06 Dec 2018 15:32:48, User: , Method: /Musics/Delete/6, Message: Error: Invalid length for a Base-64 char array or string.
+Log 06 Dec 2018 20:52:53, User: , Method: /Accounts/ForgotPassword, Message: Error: Object reference not set to an instance of an object.
+Log 24 Dec 2018 22:12:38, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 24 Dec 2018 22:12:38, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 24 Dec 2018 22:12:38, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 24 Dec 2018 22:12:41, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:12:50, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:13:15, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:13:20, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:20:47, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:22:50, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:22:57, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:23:03, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 24 Dec 2018 22:24:31, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 24 Dec 2018 22:24:31, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 24 Dec 2018 22:24:31, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 24 Dec 2018 22:24:33, User: , Method: /Musics/Download/XKP8nG7Lgz|NIPsooguF1A;;, Message: Error: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+Log 24 Dec 2018 22:30:19, User: , Method: /Musics/Download/XKP8nG7Lgz|NIPsooguF1A;;, Message: Error: Could not find file 'C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\SecurityWebsite\App_Data\ea386086-e3ad-4460-9151-686580eca202.wav'.
+Log 24 Dec 2018 22:30:21, User: , Method: /Musics/Delete/XKP8nG7Lgz|NIPsooguF1A;;, Message: Music deleted successfully
+Log 24 Dec 2018 22:30:31, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 24 Dec 2018 22:30:31, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 24 Dec 2018 22:30:31, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 24 Dec 2018 22:31:15, User: , Method: /Musics/Download/URTZ$fcQshyW73kLEFCjBA;;, Message: Error: Could not find file 'C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\SecurityWebsite\App_Data\482ab82c-e0c5-4a84-8b37-2eead2d1dfed.wav'.
+Log 24 Dec 2018 22:31:19, User: , Method: /Musics/Download/URTZ$fcQshyW73kLEFCjBA;;, Message: Error: Could not find file 'C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\SecurityWebsite\App_Data\482ab82c-e0c5-4a84-8b37-2eead2d1dfed.wav'.
+Log 24 Dec 2018 22:32:41, User: , Method: /Musics/Download/URTZ$fcQshyW73kLEFCjBA;;, Message: Error: Could not find file 'C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\SecurityWebsite\App_Data\482ab82c-e0c5-4a84-8b37-2eead2d1dfed.wav'.
+Log 24 Dec 2018 22:32:41, User: , Method: /Musics/Download/URTZ$fcQshyW73kLEFCjBA;;, Message: Error: Could not find file 'C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\SecurityWebsite\App_Data\482ab82c-e0c5-4a84-8b37-2eead2d1dfed.wav'.
+Log 24 Dec 2018 22:32:42, User: , Method: /Musics/Delete/URTZ$fcQshyW73kLEFCjBA;;, Message: Music deleted successfully
+Log 24 Dec 2018 22:32:42, User: , Method: /Musics/Delete/URTZ$fcQshyW73kLEFCjBA;;, Message: Music deleted successfully
+Log 29 Dec 2018 21:35:14, User: , Method: /Musics/Download/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Error: Could not find file 'C:\Users\yalci\Desktop\Securing Applications ASSIGNMENT NEW\SecurityWebsite\App_Data\0bdc0214-5b71-4074-9a41-58c35518c8ff.wav'.
+Log 29 Dec 2018 21:35:19, User: , Method: /Musics/Delete/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Music deleted successfully
+Log 29 Dec 2018 21:35:29, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:35:29, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 29 Dec 2018 21:35:37, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:35:37, User: , Method: /Musics/Create, Message: Error: Value cannot be null.
+Parameter name: xmlString
+Log 29 Dec 2018 21:36:05, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:36:07, User: , Method: /Musics/Create, Message: Error: Object reference not set to an instance of an object.
+Log 29 Dec 2018 21:36:15, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:39:55, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:39:58, User: , Method: /Musics/Create, Message: Error: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Log 29 Dec 2018 21:40:00, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:40:07, User: , Method: /Musics/Create, Message: Error: Object reference not set to an instance of an object.
+Log 29 Dec 2018 21:40:13, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:42:36, User: , Method: /Musics/Create, Message: Error: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Log 29 Dec 2018 21:42:39, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:42:41, User: , Method: /Musics/Create, Message: Error: Object reference not set to an instance of an object.
+Log 29 Dec 2018 21:48:00, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:48:58, User: , Method: /Musics/Create, Message: Error: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Log 29 Dec 2018 21:50:42, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:51:24, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 29 Dec 2018 21:51:26, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 29 Dec 2018 21:53:47, User: , Method: /Musics/Delete/jhOHuOMDQAvVdpM2W$OYEw;;, Message: Music deleted successfully
+Log 29 Dec 2018 21:54:07, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:54:09, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 29 Dec 2018 21:54:09, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 29 Dec 2018 21:59:22, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 21:59:22, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 29 Dec 2018 21:59:22, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 29 Dec 2018 22:08:37, User: , Method: /Musics/Download/URTZ$fcQshyW73kLEFCjBA;;, Message: Error: Invalid file!
+Log 29 Dec 2018 22:08:40, User: , Method: /Musics/Delete/URTZ$fcQshyW73kLEFCjBA;;, Message: Music deleted successfully
+Log 29 Dec 2018 22:08:48, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 22:08:48, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 29 Dec 2018 22:08:48, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 29 Dec 2018 22:08:50, User: , Method: /Musics/Download/EG6dbHyO5BZ4AF6$gDRFTg;;, Message: Error: Invalid file!
+Log 29 Dec 2018 22:13:16, User: , Method: /Musics/Download/EG6dbHyO5BZ4AF6$gDRFTg;;, Message: Error: Invalid file!
+Log 29 Dec 2018 22:37:25, User: , Method: /Musics/Download/EG6dbHyO5BZ4AF6$gDRFTg;;, Message: Error: Invalid file!
+Log 29 Dec 2018 22:37:30, User: , Method: /Musics/Delete/EG6dbHyO5BZ4AF6$gDRFTg;;, Message: Music deleted successfully
+Log 29 Dec 2018 22:37:38, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 22:37:38, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 29 Dec 2018 22:37:38, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 29 Dec 2018 22:37:39, User: , Method: /Musics/Download/WgmYQVeMexlYu|EnhLdnZA;;, Message: Error: Invalid file!
+Log 29 Dec 2018 22:45:23, User: , Method: /Musics/Download/WgmYQVeMexlYu|EnhLdnZA;;, Message: Error: Invalid file!
+Log 29 Dec 2018 22:45:24, User: , Method: /Musics/Delete/WgmYQVeMexlYu|EnhLdnZA;;, Message: Music deleted successfully
+Log 29 Dec 2018 22:45:34, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 29 Dec 2018 22:45:34, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 29 Dec 2018 22:45:34, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 09/01/2019 12:31:10, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:31:10, User: , Method: /Musics/Create, Message: Error: Index and length must refer to a location within the string.
+Parameter name: length
+Log 09/01/2019 12:31:34, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:31:34, User: , Method: /Musics/Create, Message: Error: Index and length must refer to a location within the string.
+Parameter name: length
+Log 09/01/2019 12:31:57, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:31:57, User: , Method: /Musics/Create, Message: Error: Index and length must refer to a location within the string.
+Parameter name: length
+Log 09/01/2019 12:31:58, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:31:59, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:31:59, User: , Method: /Musics/Create, Message: Error: Object reference not set to an instance of an object.
+Log 09/01/2019 12:31:59, User: , Method: /Musics/Create, Message: Error: Object reference not set to an instance of an object.
+Log 09/01/2019 12:32:04, User: , Method: /Accounts/Login, Message: Error: Object reference not set to an instance of an object.
+Log 09/01/2019 12:32:08, User: , Method: /Accounts/Login, Message: Error: Object reference not set to an instance of an object.
+Log 09/01/2019 12:32:21, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:32:21, User: , Method: /Musics/Create, Message: Error: Index and length must refer to a location within the string.
+Parameter name: length
+Log 09/01/2019 12:33:21, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:33:22, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 09/01/2019 12:33:22, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 09/01/2019 12:33:34, User: , Method: /Musics/Create, Message: Entered the Create Action
+Log 09/01/2019 12:33:34, User: , Method: /Musics/Create, Message: Finished adding the item to the database
+Log 09/01/2019 12:33:34, User: , Method: /Musics/Create, Message: Music file added successfully
+Log 09/01/2019 12:34:27, User: , Method: /Musics/Delete/TF2LXIXWRemH9SxVvlUDfA;;, Message: Music deleted successfully
+Log 09/01/2019 12:35:24, User: , Method: /Accounts/ForgotPassword, Message: Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+Log 09/01/2019 12:35:31, User: , Method: /Accounts/ForgotPassword, Message: Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+Log 09/01/2019 12:36:02, User: , Method: /Accounts/ForgotPassword, Message: Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+Log 09/01/2019 12:36:07, User: , Method: /Accounts/ForgotPassword, Message: Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+Log 09/01/2019 12:36:10, User: , Method: /Accounts/ForgotPassword, Message: Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+Log 09/01/2019 12:36:11, User: , Method: /Accounts/ForgotPassword, Message: Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
